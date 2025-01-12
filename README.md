@@ -4,7 +4,12 @@
 
 <h1 align="center">Geometric shapes with particles</h1>
 
----
+<div align="center">
+  <img src="examples/sphere.gif" alt="sphere" width="200" height="200" style="margin: 10px;">
+  <img src="examples/cube.gif" alt="cube" width="200" height="200" style="margin: 10px;">
+  <img src="examples/cylinder.gif" alt="cylinder" width="200" height="200" style="margin: 10px;">
+  <img src="examples/pyramid.gif" alt="pyramid" width="200" height="200" style="margin: 10px;">
+</div>
 
 The set of several geometric shapes with particles moving inside.
 
@@ -42,12 +47,8 @@ There are some settings:
   <li>Color settings</li>
 </ul>
 
----
-
 <h2>Credits</h2>
 It is mainly developed using the JavaScript 3D library <a href="https://github.com/mrdoob/three.js">three.js</a>.
-
----
 
 <h2>License</h2>
 <a href="https://github.com/a-rudenko/geometric-particles/blob/main/LICENSE">MIT</a>
