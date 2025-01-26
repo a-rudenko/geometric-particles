@@ -13,6 +13,8 @@
 
 The set of several geometric shapes with particles moving inside.
 
+<a href="https://a-rudenko.github.io/geometric-particles">Live demo</a>
+
 Main logic:
 <ul>
   <li>creates a scene and a camera</li>
