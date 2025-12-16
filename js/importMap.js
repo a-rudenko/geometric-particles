@@ -1,7 +1,7 @@
 const importMap = {
     "imports": {
-        "three": "https://cdn.jsdelivr.net/npm/three@0.181.2/build/three.module.js",
-        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.181.2/examples/jsm/"
+        "three": "https://cdn.jsdelivr.net/npm/three@0.182.0/build/three.module.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.182.0/examples/jsm/"
     }
 };
 
